@@ -1,2 +1,2 @@
 # Learning-Without-Forgetting
-it contains different aproaces
+it contains different aproaches
